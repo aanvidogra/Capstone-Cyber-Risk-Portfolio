@@ -1,4 +1,4 @@
-# AI Cyber Risk Portfolio 
+# Cyber Risk Portfolio 
 
 ## Project Overview
 
